@@ -1,4 +1,4 @@
-# Python-Cybersecurity-Encrypt-zipfile
+# Python-Cybersecurity-Bruteforce-zipfile
 > This project is based on cybersecurity program offered by AIG on Forage. For full information, please visit this [link](https://www.theforage.com/simulations/aig/cybersecurity-ku1i).
 
 ## Scenario
